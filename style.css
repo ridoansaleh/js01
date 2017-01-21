@@ -1,0 +1,40 @@
+.header {
+	width: 100%;
+	height: 80px;
+	background-color: #dc143c;
+	color: white;
+}
+
+.main {
+	width: 100%;
+	height: 1500px;
+	margin-top: 10px;
+	background-color: #f2f3f4;
+}
+
+.sidebar {
+	width: 20%;
+	height: 700px;
+	background-color: #efdecd;
+	float: left;
+}
+
+.content {
+	width: 80%;
+	height: 1480px;
+	background-color: #ffe135;
+	float: right;
+}
+
+.footer {
+	margin-top: 10px;
+	width: auto;
+	height: 70px;
+	padding: 15px;
+	background-color: #9932cc;
+	color: white;
+}
+
+h1, h2, h4, p {
+	margin: 5px;
+}
