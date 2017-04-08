@@ -1,2 +1,5 @@
-# js01
-JavaScript 01 
+# Website Basic Design
+
+It uses HTML + CSS + JavaScript + JQuery
+
+Demo : 
