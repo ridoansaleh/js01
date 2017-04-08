@@ -2,4 +2,4 @@
 
 It uses HTML + CSS + JavaScript + JQuery
 
-Demo : 
+Demo : https://ridoansaleh.github.io/website-basic-design/
